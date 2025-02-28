@@ -132,11 +132,3 @@ A dedicated reservation page is needed to make booking a table effortless. Custo
 This capstone project demonstrates the application of UI/UX design principles to create a user-centered mobile prototype for Little Lemon’s website. By addressing Jessica Oh’s needs and frustrations, the design ensures a seamless, efficient, and enjoyable reservation experience. The wireframe and prototype provide a solid foundation for development, with clear opportunities for improvement to enhance user satisfaction and engagement.
 
 ---
-
-## Contributing
-If you'd like to contribute to this project, please open an issue or submit a pull request on the GitHub repository. Feedback and suggestions for improving the UI/UX are welcome!
-
-## License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
